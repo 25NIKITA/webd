@@ -1,0 +1,14 @@
+.gradient-background{
+    
+    background:linear-gradient(300deg,#FFC6AC,#FFF6DC,#C4C1A4);
+    /* background-size:180%; */
+    animation: gradient-animation 18s ease infinite;
+
+}
+.profile-img{
+    border-radius: 1000%;
+    justify-content:center;
+    padding: 0;
+    margin: 0;
+}
+
